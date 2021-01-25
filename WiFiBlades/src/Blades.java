@@ -301,7 +301,7 @@ public class Blades extends JFrame {
 
 				text = new JLabel("" + number, SwingConstants.CENTER);
 				text.setFont(new Font("Calibri", Font.PLAIN, 55));
-				text.setBounds(0, 35, 70, 50);
+				text.setBounds(0, 35, 70, 60);
 				this.add(text);
 				this.setBackground(Color.white);
 
